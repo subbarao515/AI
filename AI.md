@@ -11,3 +11,15 @@ Artificial intelligence(AI) is imitates human behaviors and capabilities.
 * Natural language processing
 * Document intelligence
 * Generative AI
+
+### Machine learning
+It is statistics and mathematical modeling of data.
+
+Types of machine learning
+* **Supervised machine learning**
+  * Regression
+  * Classification
+     * Binary classification
+     * Multiclass classification
+* **Unsupervised machine learning**
+  *  Clustering
