@@ -23,3 +23,13 @@ Types of machine learning
      * Multiclass classification
 * **Unsupervised machine learning**
   *  Clustering
+ 
+### Computer vision
+Computer vision is one of the core areas of artificial intelligence (AI).Focuses on creating solutions that enable AI applications to "see" the world and make sense of it.  
+Filter is convolved across the image, this kind of image manipulation is often referred to as convolutional filtering
+* convolutional neural network (CNN)  
+#### Below are foundation models
+* Image classification: Identifying to which category an image belongs.
+* Object detection: Locating individual objects within an image.
+* Captioning: Generating appropriate descriptions of images.
+* Tagging: Compiling a list of relevant text tags for an image.
