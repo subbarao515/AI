@@ -41,6 +41,12 @@ Filter is convolved across the image, this kind of image manipulation is often r
  * Analysis
  * recongnition  
  Use cases
- * Security ,Social media,Intelligent monitoring,Advertising,Missing persons and Identity validation
+ * Security ,Social media,Intelligent monitoring,Advertising,Missing persons and Identity validation  
+### Optical character recognition
+Computer vision to "read" the text, and then natural language processing capabilities make sense of it.
+
+### Natural language processing
+Natural language processing supports applications that can see, hear, speak understand users.  
+
 
 
