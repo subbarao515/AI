@@ -33,3 +33,14 @@ Filter is convolved across the image, this kind of image manipulation is often r
 * Object detection: Locating individual objects within an image.
 * Captioning: Generating appropriate descriptions of images.
 * Tagging: Compiling a list of relevant text tags for an image.
+
+### Facial Recognition
+
+ **Face detection, analysis, and recognition are important capabilities for artificial intelligence (AI) solutions**
+ * Detection
+ * Analysis
+ * recongnition  
+ Use cases
+ * Security ,Social media,Intelligent monitoring,Advertising,Missing persons and Identity validation
+
+
