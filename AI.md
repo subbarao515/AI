@@ -48,5 +48,16 @@ Computer vision to "read" the text, and then natural language processing capabil
 ### Natural language processing
 Natural language processing supports applications that can see, hear, speak understand users.  
 
+### Text Analysis
+Entity Recognition,Entity linking,PII and PHI detection,Language Sentiment analysis and opinion mining,
+summarization,text analysis.
+
+An entity is an item of a particular type or a category
+
+### Conversational AI 
+It enable a dialog between an AI agent and a human.conversational AI agents are known as bots.
+
+
+
 
 
