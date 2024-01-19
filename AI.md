@@ -55,7 +55,11 @@ summarization,text analysis.
 An entity is an item of a particular type or a category
 
 ### Conversational AI 
-It enable a dialog between an AI agent and a human.conversational AI agents are known as bots.
+It enable a dialog between an AI agent and a human.conversational AI agents are known as bots. utterances, entities, and intents are core concepts for Convenrational AI
+Below 3 are part of Conversational AL
+* Authoring
+* Training the model
+* Predicting
 
 
 
