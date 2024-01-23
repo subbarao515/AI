@@ -48,6 +48,8 @@ Computer vision to "read" the text, and then natural language processing capabil
 ### Natural language processing
 Natural language processing supports applications that can see, hear, speak understand users.  
 
+Speech recognition and Speech synthesis are part  of NLP
+
 ### Text Analysis
 Entity Recognition,Entity linking,PII and PHI detection,Language Sentiment analysis and opinion mining,
 summarization,text analysis.
@@ -61,6 +63,15 @@ Below 3 are part of Conversational AL
 * Training the model
 * Predicting
 
+### Document intelligence
+Document intelligence is AI capabilities  support processing text and making sense of information in text.      
+Document intelligence can identify specific data such as the merchant's name, merchant's address, total value, and tax value
+* It automates the process of extracting, understanding, and saving the data in text.
+* Its extension of optical character recognition (OCR)
+#### Document analysis
+The ability to extract text, layout, and key-value pairs are known as document analysis.    
+Document analysis provides locations of text on a page identified by bounding box coordinates.
+It dependent on machine learning models that are trained to recognize data in text
 
 
 
