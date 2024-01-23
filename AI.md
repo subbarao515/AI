@@ -73,6 +73,9 @@ The ability to extract text, layout, and key-value pairs are known as document a
 Document analysis provides locations of text on a page identified by bounding box coordinates.
 It dependent on machine learning models that are trained to recognize data in text
 
+### Knowledge mining
+Extracting information from large volumes of often unstructured data
+
 
 
 
