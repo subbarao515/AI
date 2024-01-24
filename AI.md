@@ -84,10 +84,10 @@ Extracting information from large volumes of often unstructured data
 **Privacy and security** : Provide consumers with information and controls over the collection, use and storage of their data 
 
 ### Usage
-Computer vision = identify (object) letters
-NLP = sentiment
-Anomaly Detection = fraud
-Maching Learning (regression) = predict
+Computer vision = identify (object) letters  
+NLP = sentiment   
+Anomaly Detection = fraud   
+Maching Learning (regression) = predict   
 
 
 
