@@ -83,5 +83,11 @@ Extracting information from large volumes of often unstructured data
 **Accountability**  : Implementing process to ensure that decisions made by AI systems can be overriden by humans  
 **Privacy and security** : Provide consumers with information and controls over the collection, use and storage of their data 
 
+### Usage
+Computer vision = identify (object) letters
+NLP = sentiment
+Anomaly Detection = fraud
+Maching Learning (regression) = predict
+
 
 
