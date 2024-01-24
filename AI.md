@@ -73,9 +73,15 @@ The ability to extract text, layout, and key-value pairs are known as document a
 Document analysis provides locations of text on a page identified by bounding box coordinates.
 It dependent on machine learning models that are trained to recognize data in text
 
+
 ### Knowledge mining
 Extracting information from large volumes of often unstructured data
 
+### Responsible and trusted AI 
+
+**Reliability and Safety** : Ensure that AI Systems operates as they were originally designed, responsed to unanticipated conditions and resist harmful manipulation   
+**Accountability**  : Implementing process to ensure that decisions made by AI systems can be overriden by humans  
+**Privacy and security** : Provide consumers with information and controls over the collection, use and storage of their data 
 
 
 
