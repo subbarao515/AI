@@ -63,6 +63,13 @@ A transformer model is to decompose the training text into tokens is called Toke
 5. **Integrate the model**: Deploy the model to an endpoint to generate predictions.
 6. **Monitor the model**: Track the model's performance.
 
+# Machine learning tasks
+
+1. **Classification**: Predict a categorical value.
+2. **Regression**: Predict a numerical value.
+3. **Time-series forecasting**: Predict future numerical values based on time-series data.
+4. **Computer vision**: Classify images or detect objects in images.
+5. **Natural language processing (NLP)**: Extract insights from text.
 
 
 
