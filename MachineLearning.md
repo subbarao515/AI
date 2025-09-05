@@ -53,7 +53,16 @@ A transformer model is to decompose the training text into tokens is called Toke
 
 # Embeddings
 * Vectors represent lines in multidimensional space, describing direction and distance along multiple axes.
-* 
+
+# Below steps for Tranining the model.
+
+1. **Define the problem**: Decide on what the model should predict and when it's successful.
+2. **Get the data**: Find data sources and get access.
+3. **Prepare the data**: Explore the data. Clean and transform the data based on the model's requirements.
+4. **Train the model**: Choose an algorithm and hyperparameter values based on trial and error.
+5. **Integrate the model**: Deploy the model to an endpoint to generate predictions.
+6. **Monitor the model**: Track the model's performance.
+
 
 
 
