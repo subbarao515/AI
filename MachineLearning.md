@@ -1,80 +1,91 @@
 # Machine Learning
 
-Machine learning has its origins in statistics and mathematical modeling of data. <br/>
-The fundamental idea of machine learning is to use data from past observations to predict unknown outcomes or values.
-* Machine learning model is a software application that encapsulates a function to calculate an output value based on one or more input values
-* The process of defining data in function is known as **Training**
-* Predict new values in a process using fucntion is called **inferencing**
-* A **label** in machine learning is the correct answer or target output that you want your model to learn to predict
+Machine learning has its origins in statistics and mathematical modeling of data.  
+The fundamental idea is to use data from past observations to predict unknown outcomes or values.
 
-## Types of machine learning
-<img width="800" height="325" alt="image" src="https://github.com/user-attachments/assets/e411432b-80e0-4f85-96a6-4eb0ade98839" /><br>
+- **Machine learning model**: A software function that calculates output from one or more input values.
+- The process of defining data in a function is called **Training**.
+- Using the function to predict new values is called **Inferencing**.
+- A **Label** is the correct answer or target output to teach the model.
 
+---
 
-* **Supervised machine learning** is the training data includes both feature values and known label values.  
-  * Supervised machine learning determining a relationship between the features and labels in past observations, so that unknown labels can be predicted for features in future cases.
-    
-* Regression is a form of supervised machine learning in which the label predicted by the model is a numeric value.
-* Classification is a form of supervised machine learning in which the label represents a categorization, or class
-    * **binary classification** : Label determines whether the observed item is (or isn't) an instance of a specific class
-       ### Binary classification evaluation metrics
-          * Accuracy 
-          * Recall
-          * Precision
-          * F1-score
- -  Area Under the Curve (AUC)
-    * **Multiclass classification** extends binary classification to predict a label that represents one of multiple possible classes  
+## Types of Machine Learning
 
-* **Unsupervised machine** learning involves training models using data that consists only of feature values without any known labels
-  * **Clustering** in unsupervised learning is the process of grouping unlabeled data points into clusters based on their similarity to one another.
+![Types of Machine Learning](https://github.com/user-attachments/assets/e411432b-80e0-4f85-96a6-4eb0ade98839)
 
-### Regression evaluation metrics
-* Mean Absolute Error (MAE)
-* Mean Squared Error (MSE)
-* Root Mean Squared Error (RMSE)
-* Coefficient of determination (R2)
-* Iterative training
+- **Supervised Learning**: Training data has both feature values and known label values.  
+  - Finds relationships between features and labels so future cases can be predicted.
+  - **Regression**: Predicted label is numeric.
+  - **Classification**: Predicted label is categorical.
+    - **Binary Classification**: Predicts if item is (or isn't) in a specific class.
+      - **Evaluation Metrics**:
+        - Accuracy
+        - Recall
+        - Precision
+        - F1-score
+        - Area Under Curve (AUC)
+    - **Multiclass Classification**: Predicts one of multiple possible classes.
+- **Unsupervised Learning**: Trains on feature values only; no labels.
+  - **Clustering**: Groups unlabeled data based on similarity.
 
-# Deep learning
-Deep learning  is an advanced form of machine learning that tries to emulate the way the human brain learns.
+---
 
- * Deep learning is the creation of an artificial  neural network
+### Regression Evaluation Metrics
+
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- Coefficient of Determination (R²)
+- Iterative Training
+
+---
+
+# Deep Learning
+
+Deep learning is an advanced form of machine learning inspired by the human brain.
+
+- **Deep Learning**: Constructs artificial neural networks.
+
+---
 
 # Transformers
-Generative AI applications are powered by language models, which are a specialized type of machine learning model that you can use to perform natural language processing (NLP).
 
-Transformer model architecture consists of two components:
+Generative AI uses large language models (LLMs), a special machine learning model type, to perform natural language processing (NLP).
 
-Encoder : An encoder block that creates semantic representations of the training vocabulary.  
-Decoder : A decoder block that generates new language sequences.  
+- **Encoder**: Creates semantic representations of the vocabulary.
+- **Decoder**: Generates new language sequences.
+
+---
 
 # Tokenization
-A transformer model is to decompose the training text into tokens is called Tokenization
+
+- Splitting text into tokens for model processing.
+
+---
 
 # Embeddings
-* Vectors represent lines in multidimensional space, describing direction and distance along multiple axes.
 
-# Below steps for Tranining the model.
+- Representing words or phrases as vectors (lines in multi-dimensional space).
 
-1. **Define the problem**: Decide on what the model should predict and when it's successful.
-2. **Get the data**: Find data sources and get access.
-3. **Prepare the data**: Explore the data. Clean and transform the data based on the model's requirements.
-4. **Train the model**: Choose an algorithm and hyperparameter values based on trial and error.
-5. **Integrate the model**: Deploy the model to an endpoint to generate predictions.
-6. **Monitor the model**: Track the model's performance.
+---
 
-# Machine learning tasks
+# Steps for Training a Model
 
-1. **Classification**: Predict a categorical value.
-2. **Regression**: Predict a numerical value.
-3. **Time-series forecasting**: Predict future numerical values based on time-series data.
-4. **Computer vision**: Classify images or detect objects in images.
-5. **Natural language processing (NLP)**: Extract insights from text.
+1. **Define the problem**: What should the model predict?
+2. **Get the data**: Locate and access data sources.
+3. **Prepare the data**: Clean and transform data for modeling.
+4. **Train the model**: Choose an algorithm and tune hyperparameters.
+5. **Integrate the model**: Deploy to make predictions.
+6. **Monitor the model**: Track and ensure performance.
 
+---
 
+# Core Machine Learning Tasks
 
-
-
-
-
+1. **Classification**: Predict categories.
+2. **Regression**: Predict numbers.
+3. **Time-series Forecasting**: Predict future values in ordered data.
+4. **Computer Vision**: Image classification/object detection.
+5. **Natural Language Processing (NLP)**: Extract insights from text/data[3][5][8].
 
