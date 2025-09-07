@@ -1,101 +1,147 @@
-### What is AI
-Artificial intelligence(AI) is imitates human behaviors and capabilities.  
-* Machine learning-  use data to create a predictive model 
-* Computer vision
-  * Image classification
-  * Object detection
-  * Semantic segmentation
-  * Image analysis
-  * Face detection, analysis, and recognition
-  * Optical character recognition (OCR)
-* Natural language processing
-* Document intelligence
-* Generative AI
+# Artificial Intelligence (AI) Overview
 
-### Machine learning
-It is statistics and mathematical modeling of data.
+## What is AI?
+Artificial Intelligence (AI) imitates human behaviors and capabilities.
 
-Types of machine learning
-* **Supervised machine learning**
-  * Regression
-  * Classification
-     * Binary classification
-     * Multiclass classification
-* **Unsupervised machine learning**
-  *  Clustering
- 
-### Computer vision
-Computer vision is one of the core areas of artificial intelligence (AI).Focuses on creating solutions that enable AI applications to "see" the world and make sense of it.  
-Filter is convolved across the image, this kind of image manipulation is often referred to as convolutional filtering
-* convolutional neural network (CNN)  
-#### Below are foundation models
-* Image classification: Identifying to which category an image belongs.
-* Object detection: Locating individual objects within an image.
-* Captioning: Generating appropriate descriptions of images.
-* Tagging: Compiling a list of relevant text tags for an image.
+### Major AI Domains
+- **Machine Learning**: Uses data to create a predictive model.
+- **Computer Vision**:
+  - Image classification
+  - Object detection
+  - Semantic segmentation
+  - Image analysis
+  - Face detection, analysis, and recognition
+  - Optical character recognition (OCR)
+- **Natural Language Processing** (NLP)
+- **Document Intelligence**
+- **Generative AI**
 
-### Facial Recognition
+---
 
- **Face detection, analysis, and recognition are important capabilities for artificial intelligence (AI) solutions**
- * Detection
- * Analysis
- * recongnition  
- Use cases
- * Security ,Social media,Intelligent monitoring,Advertising,Missing persons and Identity validation  
-### Optical character recognition
-Computer vision to "read" the text, and then natural language processing capabilities make sense of it.
+## Machine Learning
 
-### Natural language processing
-Natural language processing supports applications that can see, hear, speak understand users.  
+Machine learning is rooted in statistics and mathematical modeling.
 
-Speech recognition and Speech synthesis are part  of NLP
+### Types of Machine Learning
+- **Supervised Machine Learning**
+  - Regression
+  - Classification
+    - Binary classification
+    - Multiclass classification
+- **Unsupervised Machine Learning**
+  - Clustering
 
-### Text Analysis
-Entity Recognition,Entity linking,PII and PHI detection,Language Sentiment analysis and opinion mining,
-summarization,text analysis.
+---
 
-An entity is an item of a particular type or a category
+## Computer Vision
 
-### Conversational AI 
-It enable a dialog between an AI agent and a human.conversational AI agents are known as bots. utterances, entities, and intents are core concepts for Convenrational AI
-Below 3 are part of Conversational AL
-* Authoring
-* Training the model
-* Predicting
+Computer vision enables AI to "see" and interpret visual data using concepts like convolutional filtering (with convolutional neural networks, or CNNs).
 
-### Document intelligence
-Document intelligence is AI capabilities  support processing text and making sense of information in text.      
-Document intelligence can identify specific data such as the merchant's name, merchant's address, total value, and tax value
-* It automates the process of extracting, understanding, and saving the data in text.
-* Its extension of optical character recognition (OCR)
-#### Document analysis
-The ability to extract text, layout, and key-value pairs are known as document analysis.    
-Document analysis provides locations of text on a page identified by bounding box coordinates.
-It dependent on machine learning models that are trained to recognize data in text
+### Foundation Models in Computer Vision
+- **Image Classification:** Identify the category of an image.
+- **Object Detection:** Locate and identify objects within an image.
+- **Captioning:** Generate descriptions for images.
+- **Tagging:** Assign relevant text labels to images.
 
+---
 
-### Knowledge mining
-Extracting information from large volumes of often unstructured data
+## Facial Recognition
 
-### Responsible and trusted AI 
+Facial recognition provides:
+- **Detection**
+- **Analysis**
+- **Recognition**
 
-**Reliability and Safety** : Ensure that AI Systems operates as they were originally designed, responsed to unanticipated conditions and resist harmful manipulation   
-**Accountability**  : Implementing process to ensure that decisions made by AI systems can be overriden by humans  
-**Privacy and security** : Provide consumers with information and controls over the collection, use and storage of their data 
+**Use Cases:** Security, social media, intelligent monitoring, advertising, missing persons, and identity validation.
 
-### Usage
-Computer vision = identify (object) letters  
-NLP = sentiment   
-Anomaly Detection = fraud   
-Maching Learning (regression) = predict   
+---
 
-### AI Assistants
-AI assistants have become essential tools in system administration, helping to manage routine tasks effectively
-* Enhance Automation Efficiency
-* Speed Up Infrastructure Provisioning
-* Improve Troubleshooting Accuracy
-* Optimize Performance Monitoring
-* Support Continuous Learning
+## Optical Character Recognition (OCR)
+
+Allows computer vision to "read" text from images, while NLP interprets that text.
+
+---
+
+## Natural Language Processing (NLP)
+
+Enables systems to see, hear, speak, and understand users.
+
+**Examples:**
+- Speech recognition
+- Speech synthesis
+
+---
+
+## Text Analysis
+
+Includes:
+- Entity recognition & linking
+- PII and PHI detection
+- Language sentiment analysis & opinion mining
+- Summarization
+
+_An “entity” is an item of a particular type or category._
+
+---
+
+## Conversational AI
+
+Enables dialogues between AI agents (“bots”) and humans.
+
+**Core Concepts:**
+- Utterances
+- Entities
+- Intents
+
+**Main Processes:**
+1. Authoring
+2. Training the model
+3. Predicting
+
+---
+
+## Document Intelligence
+
+Enables automated processing, extraction, and understanding of vital information from text documents.
+
+- Can identify specific data such as merchant's name, address, value, etc.
+- Automates and extends OCR with advanced document analysis.
+- Extracts text, layout, and key-value pairs using bounding box coordinates.
+
+---
+
+## Knowledge Mining
+
+- Extracts useful information from large, often unstructured, datasets.
+
+---
+
+## Responsible and Trusted AI
+
+- **Reliability and Safety:** Ensure AI systems function as designed and resist manipulation.
+- **Accountability:** Implement human oversight and override mechanisms.
+- **Privacy and Security:** Equip users to control data collection, use, and storage.
+
+---
+
+## Example Usage Areas
+
+- **Computer Vision:** Identifying objects, analyzing letters
+- **NLP:** Sentiment analysis
+- **Anomaly Detection:** Fraud
+- **Machine Learning (Regression):** Predictive analysis
+
+---
+
+## AI Assistants in System Administration
+
+AI assistants can:
+- Enhance automation efficiency
+- Speed up infrastructure provisioning
+- Improve troubleshooting accuracy
+- Optimize performance monitoring
+- Support continuous learning
+
 
 
 
