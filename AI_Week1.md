@@ -21,3 +21,17 @@
 **Generative AI** is a type of AI that can create new content, such as text, images, music, or code. It learns patterns from existing data and uses them to generate novel outputs. **Large Language Models (LLMs)** are a prominent example of generative AI.
 
 > **Example:** ChatGPT or Google Gemini. You can ask them to write a poem, generate code, or create a story, and they will create original content based on your request.
+
+
+## What is LLM?
+Large Language Models (LLMs) is a type of AI that can understand and generate human-like text based on the input it receives. 
+
+LLMs are trained on huge amounts of text from:
+
+* books
+* articles
+* websites
+* code
+* conversations
+
+> **Example:**  LLM is like a magic robot storyteller who read more books than human and learned patterns in words and guesses the best next word.
