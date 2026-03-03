@@ -35,3 +35,9 @@ LLMs are trained on huge amounts of text from:
 * conversations
 
 > **Example:**  LLM is like a magic robot storyteller who read more books than human and learned patterns in words and guesses the best next word.
+
+Large Language Models (LLMs) like GPT and Gemini work like a super-smart robot storyteller that has read millions of books.
+
+They don’t understand like humans — instead, they spot patterns in sentences and predict the next best word.
+
+They use a special brain called a Transformer, which has many tiny helpers that figure out which words matter and how to respond
