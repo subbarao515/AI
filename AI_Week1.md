@@ -41,3 +41,21 @@ Large Language Models (LLMs) like GPT and Gemini work like a super-smart robot s
 They don’t understand like humans — instead, they spot patterns in sentences and predict the next best word.
 
 They use a special brain called a Transformer, which has many tiny helpers that figure out which words matter and how to respond
+
+
+**Tokens** : AI processes text using tokens instead of whole words. A token can be a single character, a piece of a word, or a full word. In standard English text, one token roughly equals four characters. A block of 75 words translates to about 100 tokens
+
+**Context Window** : A context window dictates the total amount of data the AI handles during a single prompt. This includes your input and the output the AI generates
+
+
+**Temperature** : Temperature controls the predictability of the output. You adjust it on a scale from 0.0 to 1.0
+
+* 0.0: The output is strictly deterministic. The model picks the most probable next token every time. Use this setting for data extraction, coding, or formatting data.
+
+* 0.5: The output balances consistency and variety. Use this setting for standard writing tasks.
+
+* 1.0: The output favors variety. The model selects less probable tokens. Use this setting for brainstorming or creative writing.
+
+![Quick Reference](Images/Token_Context_Temparture.png)
+
+
