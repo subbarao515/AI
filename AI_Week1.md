@@ -59,3 +59,15 @@ They use a special brain called a Transformer, which has many tiny helpers that 
 ![Quick Reference](Images/Token_Context_Temparture.png)
 
 
+**Prompt Engineering** : Prompt engineering is simply the skill of writing that perfect, clear instructions to get the best possible response from an AI.
+
+
+
+**What is AI Fluency?**
+AI Fluency involves developing practical skills, knowledge, insights, and values that help you interact with AI systems in ways that are effective, efficient, ethical, and safe.
+
+**Automation**: The AI completes specific tasks based on your instructions.
+
+**Augmentation**: You and AI collaborate as creative thinking and task execution partners.
+
+**Agency**: You configure AI to work independently on your behalf, establishing its knowledge and behavior patterns rather than just giving it specific tasks.
