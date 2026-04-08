@@ -41,7 +41,6 @@ Computer vision enables AI to "see" and interpret visual data using concepts lik
 - **Image Classification:** Identify the category of an image.
 - **Object Detection:** Locate and identify objects within an image.
 - **Captioning:** Generate descriptions for images.
-- **Tagging:** Assign relevant text labels to images.
 
 ---
 
