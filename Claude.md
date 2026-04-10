@@ -21,3 +21,28 @@ AI Fluency involves developing practical skills, knowledge, insights, and values
 **Diligence**: Ensuring you interact with AI responsibly
 
 ![alt text](image.png)
+
+
+# Delegation
+
+**Problem Awareness**: Understanding your goals and the work involved to achieve it
+
+**Platform Awareness**: Knowing what different AI systems can do
+
+**Task Delegation**: Strategically dividing work between you and AI
+
+# Description
+
+**Product Description**: Clearly defining what you want the AI to create
+
+**Process Description**: Guiding how the AI approaches your request
+
+**Performance Description**: Defining how you want the AI to behave during your collaboration
+
+# Discernment
+
+**Product Discernment**: Evaluating the quality of AI outputs
+
+**Process Discernment**: Assessing how the AI approached the task
+
+**Performance Discernment**: Evaluating how the AI behaved during the interaction itself
