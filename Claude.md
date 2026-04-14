@@ -46,3 +46,11 @@ AI Fluency involves developing practical skills, knowledge, insights, and values
 **Process Discernment**: Assessing how the AI approached the task
 
 **Performance Discernment**: Evaluating how the AI behaved during the interaction itself
+
+# Diligence
+
+**Creation Diligence**: Being thoughtful about which AI systems you choose and how you work with them
+
+**Transparency Diligence**: Being open about AI's role in your work
+
+**Deployment Diligence**: Taking ownership for AI-assisted outputs you share with others
