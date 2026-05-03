@@ -56,6 +56,7 @@ AI Fluency involves developing practical skills, knowledge, insights, and values
 **Deployment Diligence**: Taking ownership for AI-assisted outputs you share with others
 
 
+
 # CLAUDE.md Files
 
 * Guides Claude through your codebase, pointing out important commands, architecture, and coding style
@@ -65,3 +66,20 @@ AI Fluency involves developing practical skills, knowledge, insights, and values
 * CLAUDE.md - Generated with /init, committed to source control, shared with other engineers
 * CLAUDE.local.md - Not shared with other engineers, contains personal instructions and customizations for Claude
 * ~/.claude/CLAUDE.md - Used with all projects on your machine, contains instructions that you want Claude to follow on all projects
+
+
+# Shorts for Claude communication 
+
+* Planning Mode -complex tasks that require extensive research across your codebase, you can enable Planning Mode 
+
+   /plan or Shift +Tab(if Planning Mode not enabled already)
+
+* Effort Level - Claude to think on hard 
+
+   /effort 
+
+## Planning vs. Effort Comparison
+
+| Planning | Effort Level |
+| :--- | :--- |
+| <ul><li>Tasks requiring broad understanding of your codebase</li><li>Multi-step implementations</li><li>Changes that affect multiple files or components</li></ul> | <ul><li>Complex logic problems</li><li>Debugging difficult issues</li><li>Algorithmic challenges</li></ul> |
