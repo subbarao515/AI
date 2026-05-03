@@ -54,3 +54,14 @@ AI Fluency involves developing practical skills, knowledge, insights, and values
 **Transparency Diligence**: Being open about AI's role in your work
 
 **Deployment Diligence**: Taking ownership for AI-assisted outputs you share with others
+
+
+# CLAUDE.md Files
+
+* Guides Claude through your codebase, pointing out important commands, architecture, and coding style
+* Allows you to give Claude specific or custom directions
+
+3 Types of calude.md files
+* CLAUDE.md - Generated with /init, committed to source control, shared with other engineers
+* CLAUDE.local.md - Not shared with other engineers, contains personal instructions and customizations for Claude
+* ~/.claude/CLAUDE.md - Used with all projects on your machine, contains instructions that you want Claude to follow on all projects
