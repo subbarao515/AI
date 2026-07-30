@@ -83,3 +83,25 @@ AI Fluency involves developing practical skills, knowledge, insights, and values
 | Planning | Effort Level |
 | :--- | :--- |
 | <ul><li>Tasks requiring broad understanding of your codebase</li><li>Multi-step implementations</li><li>Changes that affect multiple files or components</li></ul> | <ul><li>Complex logic problems</li><li>Debugging difficult issues</li><li>Algorithmic challenges</li></ul> |
+
+## Skills vs. other Claude Code features
+
+| Feature | What it does | When it runs | Simple way to remember it |
+|---|---|---|---|
+| **CLAUDE.md** | Tells Claude the basic rules of your project | Every single session, automatically | The rulebook Claude always reads |
+| **Skills** | Gives Claude know-how for a specific task | Only when the task needs it | A manual Claude picks up when useful |
+| **Hooks** | Forces something to happen every time | Triggered by events (before/after actions) | A robot rule — no thinking, just does it |
+| **Subagents** | Sends work to a separate helper session | When Claude wants to delegate a task | A helper working in their own room |
+| **Slash commands** | Quick shortcut for a saved prompt | When you type `/something` | Your saved shortcut key |
+| **MCP servers** | Connects Claude to outside tools (GitHub, databases, etc.) | When Claude needs outside data or action | A bridge to other apps |
+| **Plugins** | Packages several of the above together to share with a team | Installed once, used by everyone | A toolbox you hand to your team |
+
+## One-line summary
+
+- **CLAUDE.md** = always-on rules
+- **Skills** = on-demand know-how
+- **Hooks** = automatic enforcement
+- **Subagents** = separate helpers
+- **Slash commands** = shortcuts
+- **MCP** = outside connections
+- **Plugins** = shared toolbox
