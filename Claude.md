@@ -86,6 +86,14 @@ AI Fluency involves developing practical skills, knowledge, insights, and values
 
 ## Skills vs. other Claude Code features
 
+**CLAUDE.md** — always-on project standards<br>
+**Skills** — task-specific expertise that loads on demand<br>
+**Hooks** — automated operations triggered by events<br>
+**Subagents** — isolated execution contexts for delegated work<br>
+**MCP servers** — external tools and integrations<br>
+
+
+
 | Feature | What it does | When it runs | Simple way to remember it |
 |---|---|---|---|
 | **CLAUDE.md** | Tells Claude the basic rules of your project | Every single session, automatically | The rulebook Claude always reads |
@@ -105,3 +113,4 @@ AI Fluency involves developing practical skills, knowledge, insights, and values
 - **Slash commands** = shortcuts
 - **MCP** = outside connections
 - **Plugins** = shared toolbox
+
