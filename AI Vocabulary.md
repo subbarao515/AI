@@ -7,3 +7,13 @@
 * **RAG (Retrieval Augmented Generation):** It is an approach of enhancing LLM performance by providing relevant context from an external knowledge base.
 * **AI Biases:** AI can inherit societal biases from training data.
 * **AI Hallucinations:** AI can confidently generate incorrect information.
+
+* **Narrow AI or artifical narrow intelligence(ANI) :** It is a type of AI that is designed to perform a specific task or a set of tasks. For example, Siri, Alexa, Google Assistant, etc.    
+
+* **Generanal AI (AGI):** Artificial General Intelligence is a type of AI that is designed to perform any intellectual task that a human being can. Its learn, think, invent and solve more complicated problem.
+
+* **Singularity point :** The point at which AI becomes superintelligent and surpasses human intelligence.
+
+* **Super AI :** Artificial Superintelligence is a hypothetical type of AI that is designed to perform any intellectual task that a human being can.
+
+* **Responsible AI:** An approach to building AI systems that are fair, transparent, and accountable.
